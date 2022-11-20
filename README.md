@@ -1,5 +1,5 @@
 <h1 align=center> 👾 Web Tic Tac Toe Game 👾 </h1>
-<h6 align=center> Project link: https://carlosuzuki.github.io/TicTacTo </h6>
+<h6 align=center> Project link: https://carlosuzuki.github.io/TicTacToe </h6>
 
 ### What is this project ???
 This repository contains the **Web Tic Tac Toe Game (3x3)** files.<br> 
@@ -10,7 +10,7 @@ This project was developed in PAFT program and the main reason of this project i
 
 ### How to run in your computer
 - **First way:** 
-  - Project link: https://carlosuzuki.github.io/TicTacTo
+  - Project link: https://carlosuzuki.github.io/TicTacToe
 - **Second way:**
   - Download all files in repository and save at the same folder in your computer.
   - Open a browser.
