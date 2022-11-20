@@ -17,8 +17,8 @@ This project was developed in PAFT program and the main reason of this project i
   - Click and drag the file: "index.html" on the browser page. 
 
 - **Third way** (Using VSCode and Node V16): 
-  - Open VSCode and type ctrl+P, type ext install ritwickdey.liveserver
-  - In VSCode terminal type git clone https://github.com/carlosuzuki/TicTacToe.git
+  - Open VSCode and type ```ctrl+P```, type ```ext install ritwickdey.liveserver```
+  - In VSCode terminal type ```git clone https://github.com/carlosuzuki/TicTacToe.git```
   - In Project Explorer give a right click on "index.html" file and choose the option "Start with Live server"
 
 ### Features
