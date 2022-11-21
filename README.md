@@ -1,5 +1,6 @@
 <h1 align=center> 👾 Web Tic Tac Toe Game 👾 </h1>
 <h6 align=center> Project link: https://carlosuzuki.github.io/TicTacToe </h6>
+<h6 align=center> Video project overview link: https://www.youtube.com/watch?v=DqhRitq3HhU (Portugues)</h6>
 
 ### What is this project ???
 This repository contains the **Web Tic Tac Toe Game (3x3)** files.<br> 
